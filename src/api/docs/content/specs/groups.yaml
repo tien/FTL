@@ -201,6 +201,7 @@ components:
                 example:
                   - "item": "test1"
                   - "item": "test2"
+          required: true
         responses:
           '204':
             description: Items deleted

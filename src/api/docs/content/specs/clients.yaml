@@ -236,6 +236,7 @@ components:
                   - "item": "12:34:56:78:9A:BC"
                   - "item": "localhost"
                   - "item": ":eth0"
+          required: true
         responses:
           '204':
             description: Items deleted

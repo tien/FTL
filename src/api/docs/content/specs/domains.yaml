@@ -254,6 +254,7 @@ components:
                         - "exact"
                         - "regex"
                       example: "exact"
+          required: true
         responses:
           '204':
             description: Items deleted
