@@ -88,7 +88,6 @@ components:
         blocking:
           type: boolean
           description: Blocking status
-          default: true
           example: true
     timer:
       type: object
